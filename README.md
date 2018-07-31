@@ -1,0 +1,2 @@
+# HQEDW.Core
+HQEDW.Core
